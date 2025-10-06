@@ -1438,7 +1438,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8bcbf809842177240af972bbee124983, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  carPrefab: {fileID: 714217157609070219, guid: 0e1d202651658324388840db44c57dda, type: 3}
+  carPrefab: {fileID: 7028136938235471617, guid: 935ef0cb8f9eab14a94e237ebc200b81, type: 3}
   spawnPoints:
   - {fileID: 928991406}
   waypoints:
